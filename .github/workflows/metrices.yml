@@ -1,5 +1,6 @@
 name: GitHub Metrics
 on:
+   workflow_dispatch:
   schedule: [{cron: "0 * * * *"}]
   push: {branches: ["main"]}
 jobs:
