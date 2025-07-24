@@ -10,7 +10,11 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity
-          plugin_traffic: yes
-          plugin_languages: yes
-          plugin_code: true
+          plugin_contributions: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_isocalendar: yes
           plugin_achievements: yes
+          plugin_languages: yes
+          plugin_code: yes
+
