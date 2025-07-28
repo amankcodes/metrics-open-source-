@@ -1,3 +1,5 @@
+ (c) Contributer : amankcodes (Aman Kumar) on https://github.com/amankcodes
+ 
 # 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
 
 [![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
@@ -568,6 +570,7 @@ Use [`💬 discussions`](https://github.com/lowlighter/metrics/discussions) for 
 MIT License
 Copyright (c) 2020-present lowlighter
 ```
+
 
 ![Sponsors](https://github.com/lowlighter/metrics/blob/examples/metrics.sponsors.svg)
 
